@@ -1,0 +1,498 @@
+{
+    "LOADOUT_SELECTION_TYPE": 2,
+    "MAX_LOBBY_TIME": 600,
+    "LOGIN_TIME": 10,
+    "FORCE_RANDOM_SPAWNS": 0,
+    "ESSENTIAL_ITEMS": [
+        "rag",
+        "MilitaryBoots_Brown"
+    ],
+    "SPAWN_POINTS": [
+        {
+            "SP_NAME": "PRDZ 1",
+            "SP_POSITION": [
+                12286.9,
+                0,
+                3484.15
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 2",
+            "SP_POSITION": [
+                13410.5,
+                0,
+                5375.31
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 3",
+            "SP_POSITION": [
+                13481.8,
+                0,
+                6413.95
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 4",
+            "SP_POSITION": [
+                12947.5,
+                0,
+                8517.64
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 5",
+            "SP_POSITION": [
+                12944,
+                0,
+                9508.75
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 6",
+            "SP_POSITION": [
+                13216.6,
+                0,
+                10487.4
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 7",
+            "SP_POSITION": [
+                13272.1,
+                0,
+                12926.8
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 8",
+            "SP_POSITION": [
+                7113.77,
+                0,
+                13291.1
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 9",
+            "SP_POSITION": [
+                2307.67,
+                0,
+                11080.5
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 10",
+            "SP_POSITION": [
+                10013.8,
+                0,
+                5583.98
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 11",
+            "SP_POSITION": [
+                7708.92,
+                0,
+                5077.6
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 12",
+            "SP_POSITION": [
+                5752.34,
+                0,
+                13533.2
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 13",
+            "SP_POSITION": [
+                1417.78,
+                0,
+                11897.3
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 14",           
+            "SP_POSITION": [
+                8047.27,
+                0,
+                11475
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 15",
+            "SP_POSITION": [
+                5986.13,
+                0,
+                4836.19
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 16",
+            "SP_POSITION": [
+                7582.8,
+                0,
+                12448
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 17",
+            "SP_POSITION": [
+                9149.72,
+                0,
+                8712.63
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 18",
+            "SP_POSITION": [
+                10861.6,
+                0,
+                12174.3
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 19",
+            "SP_POSITION": [
+                12124,
+                0,
+                9667.04
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 20",
+            "SP_POSITION": [
+                3135.44,
+                0,
+                7650.22
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 21",
+            "SP_POSITION": [
+                2615.98,
+                0,
+                10016.7
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 22",
+            "SP_POSITION": [
+                2890.98,
+                0,
+                12225.3
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 23",
+            "SP_POSITION": [
+                2016.96,
+                0,
+                7377.66
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 24",
+            "SP_POSITION": [
+                6380.25,
+                0,
+                7507.01
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 25",
+            "SP_POSITION": [
+                9939.28,
+                0,
+                8788.32
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 26",
+            "SP_POSITION": [
+                9814.92,
+                0,
+                1822.8
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 30",
+            "SP_POSITION": [
+                11150.1,
+                0,
+                14277.6
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 31",
+            "SP_POSITION": [
+                8222.43,
+                0,
+                2982.86
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 32",
+            "SP_POSITION": [
+                5916.1,
+                0,
+                1994.65
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 33",
+            "SP_POSITION": [
+                4762.92,
+                0,
+                2345.08
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 34",
+            "SP_POSITION": [
+                1968.45,
+                0,
+                2178.31
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 35",
+            "SP_POSITION": [
+                816.946,
+                0,
+                1884.56
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 36",
+            "SP_POSITION": [
+                1605.97,
+                0,
+                3841.44
+            ],
+            "SP_COOLDOWN": 300
+        },
+        {
+            "SP_NAME": "PRDZ 37",
+            "SP_POSITION": [
+                2925.45,
+                0,
+                5125.79
+            ],
+            "SP_COOLDOWN": 300
+        }
+    ],
+    "STATIC_LOADOUTS": [
+        {
+            "LO_NAME": "Military Survivior",
+            "LO_ITEMS": [
+                {
+                    "SLOT_NAME": "Hands",
+                    "ITEM_CLASS_NAME": "MakarovIJ70",
+                    "ITEM_ATTACHMENTS": [
+                        "MakarovPBSuppressor"
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Body",
+                    "ITEM_CLASS_NAME": "TShirt_Beige",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        "Rag",
+                        "Lycan_drink",
+                        "Apple",
+                        "Flashlight",
+                        "Battery9V",
+                        "Headtorch_Black",
+                        "Mag_IJ70_8Rnd",
+                        "Mag_IJ70_8Rnd"
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Headgear",
+                    "ITEM_CLASS_NAME": "MilitaryBeret_NZ",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Back",
+                    "ITEM_CLASS_NAME": "MassImprovisedBag_Woodland",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Legs",
+                    "ITEM_CLASS_NAME": "TTSKOPants",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                }
+            ],
+            "LO_NAME": "Civilian Survivior",
+            "LO_ITEMS": [
+                {
+                    "SLOT_NAME": "Hands",
+                    "ITEM_CLASS_NAME": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Body",
+                    "ITEM_CLASS_NAME": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Headgear",
+                    "ITEM_CLASS_NAME": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Back",
+                    "ITEM_CLASS_NAME": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Legs",
+                    "ITEM_CLASS_NAME": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                },
+                {
+                    "SLOT_NAME": "Feet",
+                    "ITEM_CLASS_NAMES": "",
+                    "ITEM_ATTACHMENTS": [
+                        ""
+                    ],
+                    "ITEM_CARGO": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ],
+    "CUSTOMIZABLE_LOADOUTS_ITEMS": [
+        {
+            "SLOT_NAME": "Feet",
+            "ITEM_CLASS_NAMES": [
+            "HikingBootsLow_Black"
+            ]
+        },
+        {
+            "SLOT_NAME": "Legs",
+            "ITEM_CLASS_NAMES": [
+                "TTSKOPants"
+            ]
+        },
+        {
+            "SLOT_NAME": "Body",
+            "ITEM_CLASS_NAMES": [
+                "QuiltedJacket_Green",
+                "ParamedicJacket_Green",
+                "TShirt_Beige",
+                "RidersJacket_Black"
+            ]
+        },
+        {
+            "SLOT_NAME": "Vest",
+            "ITEM_CLASS_NAMES": [
+                "pressvest_lightblue"
+            ]
+        },
+        {
+            "SLOT_NAME": "Headgear",
+            "ITEM_CLASS_NAMES": [
+                "baseballcap_cmmg_black"
+            ]
+        },
+        {
+            "SLOT_NAME": "Gloves",
+            "ITEM_CLASS_NAMES": [
+                "workinggloves_black"
+            ]
+        },
+        {
+            "SLOT_NAME": "Back",
+            "ITEM_CLASS_NAMES": [
+                "MassImprovisedBag_Woodland"
+            ]
+        },
+        {
+            "SLOT_NAME": "Eyewear",
+            "ITEM_CLASS_NAMES": [
+                "sportglasses"
+            ]
+        }
+    ]
+}
